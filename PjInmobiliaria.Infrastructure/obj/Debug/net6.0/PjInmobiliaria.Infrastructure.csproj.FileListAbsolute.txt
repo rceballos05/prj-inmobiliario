@@ -1,0 +1,17 @@
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Infrastructure.deps.json
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Infrastructure.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Infrastructure.pdb
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Domain.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Utilities.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Domain.pdb
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\bin\Debug\net6.0\PjInmobiliaria.Utilities.pdb
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.AssemblyInfo.cs
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.csproj.CopyComplete
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\refint\PjInmobiliaria.Infrastructure.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\PjInmobiliaria.Infrastructure.pdb
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Infrastructure\obj\Debug\net6.0\ref\PjInmobiliaria.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\bin\Debug\net6.0\PjInmobiliaria.Domain.deps.json
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\bin\Debug\net6.0\PjInmobiliaria.Domain.runtimeconfig.json
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\bin\Debug\net6.0\PjInmobiliaria.Domain.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\bin\Debug\net6.0\PjInmobiliaria.Domain.pdb
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.csproj.AssemblyReference.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.AssemblyInfoInputs.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.AssemblyInfo.cs
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\refint\PjInmobiliaria.Domain.dll
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.pdb
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\PjInmobiliaria.Domain.genruntimeconfig.cache
+C:\Users\Cesaruc\Desktop\prj_inmobiliario\PjInmobiliaria\PjInmobiliaria.Domain\obj\Debug\net6.0\ref\PjInmobiliaria.Domain.dll
